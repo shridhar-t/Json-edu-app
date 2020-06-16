@@ -1,13 +1,13 @@
 [
     [{
-        "tits": "hpcEDU",
-        "url": "https://www.youtube.com/embed/BdCLfCaWk7I?enablejsapi=1"
+        "tits": "System Calls",
+        "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
     }, {
-        "tits": "hpc2",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        "tits": "Virtual Memory",
+        "url": "https://www.youtube.com/embed/_1tnoez75ws?enablejsapi=1"
     }, {
-        "tits": "hpc3",
-        "url": "https://www.youtube.com/embed/BdCLfCaWk7I?enablejsapi=1"
+        "tits": "Cache Replacement Policy",
+        "url": "https://www.youtube.com/embed/u1xHbfhq0KQ?enablejsapi=1"
     }, {
         "tits": "hpc4",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
