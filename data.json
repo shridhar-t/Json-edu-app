@@ -1,115 +1,115 @@
 [
     [{
-        "tits": "System Calls",
+        "title": "System Calls",
         "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
     }, {
-        "tits": "Virtual Memory",
+        "title": "Virtual Memory",
         "url": "https://www.youtube.com/embed/_1tnoez75ws?enablejsapi=1"
     }, {
-        "tits": "Cache Replacement Policy",
+        "title": "Cache Replacement Policy",
         "url": "https://www.youtube.com/embed/u1xHbfhq0KQ?enablejsapi=1"
     }, {
-        "tits": "hpc4",
+        "title": "hpc4",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "hpc5",
+        "title": "hpc5",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "hpc6",
+        "title": "hpc6",
         "url": "https://www.youtube.com/embed/BdCLfCaWk7I?enablejsapi=1"
     }, {
-        "tits": "hpc7",
+        "title": "hpc7",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "hpc8",
+        "title": "hpc8",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "hpc9",
+        "title": "hpc9",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "hpc10",
+        "title": "hpc10",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "hpc11",
+        "title": "hpc11",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "hpc12",
+        "title": "hpc12",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "hpc13",
+        "title": "hpc13",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "hpc14",
+        "title": "hpc14",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "hpc15",
+        "title": "hpc15",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "hpc16",
+        "title": "hpc16",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "hpc17",
+        "title": "hpc17",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "hpc18",
+        "title": "hpc18",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "hpc19",
+        "title": "hpc19",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "hpc20",
+        "title": "hpc20",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }],
     [{
-        "tits": "Parallel Programming1",
+        "title": "Parallel Programming1",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "Parallel Programming2",
+        "title": "Parallel Programming2",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "Parallel Programming3",
+        "title": "Parallel Programming3",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "Parallel Programming4",
+        "title": "Parallel Programming4",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }],
     [{
-        "tits": "Open Multi-Processing1",
+        "title": "Open Multi-Processing1",
         "url": "https://www.youtube.com/embed/BdCLfCaWk7I?enablejsapi=1"
     }, {
-        "tits": "Open Multi-Processing2",
+        "title": "Open Multi-Processing2",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "Open Multi-Processing3",
+        "title": "Open Multi-Processing3",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "Open Multi-Processing4",
+        "title": "Open Multi-Processing4",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }],
     [{
-        "tits": "Graphics Processing Unit1",
+        "title": "Graphics Processing Unit1",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "Graphics Processing Unit2",
+        "title": "Graphics Processing Unit2",
         "url": "https://www.youtube.com/embed/BdCLfCaWk7I?enablejsapi=1"
     }, {
-        "tits": "Graphics Processing Unit3",
+        "title": "Graphics Processing Unit3",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "Graphics Processing Unit4",
+        "title": "Graphics Processing Unit4",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }],
     [{
-        "tits": "Message Passing Interface1",
+        "title": "Message Passing Interface1",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "Message Passing Interface2",
+        "title": "Message Passing Interface2",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "Message Passing Interface3",
+        "title": "Message Passing Interface3",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }, {
-        "tits": "Message Passing Interface4",
+        "title": "Message Passing Interface4",
         "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
     }]
 ]
