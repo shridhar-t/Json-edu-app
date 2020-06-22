@@ -1,115 +1,96 @@
 [
-    [{
-        "title": "System Calls",
-        "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
-    }, {
-        "title": "Virtual Memory",
-        "url": "https://www.youtube.com/embed/_1tnoez75ws?enablejsapi=1"
-    }, {
-        "title": "Cache Replacement Policy",
-        "url": "https://www.youtube.com/embed/u1xHbfhq0KQ?enablejsapi=1"
-    }, {
-        "title": "hpc4",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "hpc5",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "hpc6",
-        "url": "https://www.youtube.com/embed/BdCLfCaWk7I?enablejsapi=1"
-    }, {
-        "title": "hpc7",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "hpc8",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "hpc9",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "hpc10",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "hpc11",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "hpc12",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "hpc13",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "hpc14",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "hpc15",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "hpc16",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "hpc17",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "hpc18",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "hpc19",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "hpc20",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }],
-    [{
-        "title": "Parallel Programming1",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "Parallel Programming2",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "Parallel Programming3",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "Parallel Programming4",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }],
-    [{
-        "title": "Open Multi-Processing1",
-        "url": "https://www.youtube.com/embed/BdCLfCaWk7I?enablejsapi=1"
-    }, {
-        "title": "Open Multi-Processing2",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "Open Multi-Processing3",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "Open Multi-Processing4",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }],
-    [{
-        "title": "Graphics Processing Unit1",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "Graphics Processing Unit2",
-        "url": "https://www.youtube.com/embed/BdCLfCaWk7I?enablejsapi=1"
-    }, {
-        "title": "Graphics Processing Unit3",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "Graphics Processing Unit4",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }],
-    [{
-        "title": "Message Passing Interface1",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "Message Passing Interface2",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "Message Passing Interface3",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }, {
-        "title": "Message Passing Interface4",
-        "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-    }]
+    [
+        {
+            "title": "System Calls",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        }, 
+        {
+            "title": "Virtual Memory",
+            "url": "https://www.youtube.com/embed/_1tnoez75ws?enablejsapi=1"
+        }, 
+        {
+            "title": "Cache Replacement Policy",
+            "url": "https://www.youtube.com/embed/u1xHbfhq0KQ?enablejsapi=1"
+        }, 
+        {
+            "title": "hpc4",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }, 
+        {
+            "title": "hpc5",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }
+    ],
+    [   
+        {
+            "title": "Parallel Programming1",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }, 
+        {
+            "title": "Parallel Programming2",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }, 
+        {
+            "title": "Parallel Programming3",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }, 
+        {
+            "title": "Parallel Programming4",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }
+    ],
+    [
+        {
+            "title": "Open Multi-Processing1",
+            "url": "https://www.youtube.com/embed/BdCLfCaWk7I?enablejsapi=1"
+        }, 
+        {
+            "title": "Open Multi-Processing2",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }, 
+        {
+            "title": "Open Multi-Processing3",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }, 
+        {
+            "title": "Open Multi-Processing4",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }
+    ],
+    [
+        {
+            "title": "Graphics Processing Unit1",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }, 
+        {
+            "title": "Graphics Processing Unit2",
+            "url": "https://www.youtube.com/embed/BdCLfCaWk7I?enablejsapi=1"
+        }, 
+        {
+            "title": "Graphics Processing Unit3",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }, 
+        {
+            "title": "Graphics Processing Unit4",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }
+    ],
+    [
+        {
+            "title": "Message Passing Interface1",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }, 
+        {
+            "title": "Message Passing Interface2",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }, 
+        {
+            "title": "Message Passing Interface3",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }, 
+        {
+            "title": "Message Passing Interface4",
+            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+        }
+    ]
 ]
