@@ -104,20 +104,20 @@
     ],
     [   
         {
-            "title": "Parallel Programming1",
-            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+            "title": "Barrier",
+            "url": "https://www.youtube.com/embed/cBUQRJ4PspU?enablejsapi=1"
         }, 
         {
-            "title": "Parallel Programming2",
-            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+            "title": "Data Race",
+            "url": "https://www.youtube.com/embed/16X9nHNQfI8?enablejsapi=1"
         }, 
         {
-            "title": "ParallelTest",
-            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+            "title": "Critical Section",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
         }, 
         {
-            "title": "Parallel Programming4",
-            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+            "title": "Mutual Exclusion",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
         }
     ],
     [
