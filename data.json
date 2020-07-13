@@ -9,17 +9,98 @@
             "url": "https://www.youtube.com/embed/_1tnoez75ws?enablejsapi=1"
         }, 
         {
+            "title": "Registers",
+            "url": "https://www.youtube.com/embed/u1zrm8P0sgM?enablejsapi=1"
+        }, 
+        {
+            "title": "Addressing Modes",
+            "url": "https://www.youtube.com/embed/0hUFoNOXMsk?enablejsapi=1"
+        }, 
+        {
+            "title": "Types of Instructions",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "ISA",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Floating Point Arithmetic",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "ALU",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Cache",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Locality",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
             "title": "Cache Replacement Policy",
             "url": "https://www.youtube.com/embed/u1xHbfhq0KQ?enablejsapi=1"
-        }, 
+        },
         {
-            "title": "hpc4",
-            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
-        }, 
+            "title": "Page Table",
+            "url": "https://www.youtube.com/embed/wMnffk4Gpsg?enablejsapi=1"
+        },
         {
-            "title": "hpc5",
-            "url": "https://www.youtube.com/embed/D4jj3HHrnSU?enablejsapi=1"
+            "title": "TLB",
+            "url": "https://www.youtube.com/embed/Nq-cQIgcOvA?enablejsapi=1"
+        },
+        {
+            "title": "Pipeline",
+            "url": "https://www.youtube.com/embed/g-8giQRPBrk?enablejsapi=1"
+        },
+        {
+            "title": "Hazards",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "IPC",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Process Scheduling Algorithms",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Preemption",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Priority Inversion",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Interrupts",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Profiling",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "File system",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Links",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Belady's Anomaly",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Setuid Bit",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
         }
+        
     ],
     [   
         {
