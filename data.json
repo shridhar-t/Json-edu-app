@@ -118,6 +118,90 @@
         {
             "title": "Mutual Exclusion",
             "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Process and thread",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Atomicity",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        }, 
+        {
+            "title": "Sequential consistency",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        }, 
+        {
+            "title": "Linearizability",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        }, 
+        {
+            "title": "Lock",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Lock-free vs. Wait-free data structure",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Forms of parallelism",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        }, 
+        {
+            "title": "Monitor",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        }, 
+        {
+            "title": "Synchronous vs. Asynchronous execution",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        }, 
+        {
+            "title": "Conditional variables",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Semaphores",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Coarse-grained vs. Fine-grained synchronization",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Optimistic vs. Lazy synchronization",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        }, 
+        {
+            "title": "ABA problem",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        }, 
+        {
+            "title": "Sorting network",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        }, 
+        {
+            "title": "Transactions",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Sleep and wakeup",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "Transactional memory",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        }, 
+        {
+            "title": "Memory consistency",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "fork and join",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
+        },
+        {
+            "title": "multicore, manycore, distributed processing",
+            "url": "https://www.youtube.com/embed/7cfOMkcwX64?enablejsapi=1"
         }
     ],
     [
